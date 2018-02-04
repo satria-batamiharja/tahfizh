@@ -1,0 +1,37 @@
+.arabic {
+
+	font-family: Traditional Arabic;font-size: 23px;direction:rtl;line-height: 90% ;font-weight: bold;
+
+}
+
+.arabic2 {
+
+	font-family: Traditional Arabic;font-size: 25px;direction:rtl;line-height: 90% ;font-weight: bold;
+
+}
+
+
+.arabic3 {
+
+	font-family: Traditional Arabic;font-size: 23px;direction:rtl;line-height: 90% ;font-weight: bold;
+
+}
+
+
+.ayat {
+
+	
+	margin-left: 10px;
+
+	color: black;
+}
+
+.jarakayat{
+	margin-bottom: 15px;
+	margin-top: 15px;
+
+}
+
+.terjemah{
+	text-align: left;
+}
